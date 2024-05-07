@@ -35,7 +35,7 @@ section {
     transform: rotate(-15deg);
   }
   100% {
-    /* filter: hue-rotate(360deg); */
+    filter: hue-rotate(360deg);
     transform: rotate(0deg);
   }
 }
@@ -113,7 +113,7 @@ section {
   border-radius: 50%;
 }
 img.fish {
-  width: 60px;
+  width: 70px;
   animation: animateFish 5s linear infinite;
   margin-top: 1rem;
 }
